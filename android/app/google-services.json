@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "497053976903",
+    "firebase_url": "https://naru-c8575-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "naru-c8575",
+    "storage_bucket": "naru-c8575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497053976903:android:fb6ee7c3d075b8638ce462",
+        "android_client_info": {
+          "package_name": "com.example.bukulapak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497053976903-k1a8qdr1kg2u3202bl2s5ctee5u53dds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bukulapak",
+            "certificate_hash": "72f992d4a29fc90c1ae27a85aacad9e8ebb2fd35"
+          }
+        },
+        {
+          "client_id": "497053976903-62igeq8ktk2iqoa06mp68vh94gihgg1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdwfQN08PYImJdI3bdRuB8ntCNYxXXCWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497053976903-62igeq8ktk2iqoa06mp68vh94gihgg1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497053976903-c5uheg9hp68parta902nn2l8s2tljavj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diabetest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497053976903:android:0c3d750e97931c358ce462",
+        "android_client_info": {
+          "package_name": "com.example.diabetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497053976903-1o0l41mn69dinqdvbic8bgd0salrngfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diabetest",
+            "certificate_hash": "72f992d4a29fc90c1ae27a85aacad9e8ebb2fd35"
+          }
+        },
+        {
+          "client_id": "497053976903-62igeq8ktk2iqoa06mp68vh94gihgg1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdwfQN08PYImJdI3bdRuB8ntCNYxXXCWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497053976903-62igeq8ktk2iqoa06mp68vh94gihgg1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497053976903-c5uheg9hp68parta902nn2l8s2tljavj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diabetest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497053976903:android:45d455f7e7f309938ce462",
+        "android_client_info": {
+          "package_name": "com.example.localngalam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497053976903-iuc4ireb7aurjheokh2d170h711c3ptd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.localngalam",
+            "certificate_hash": "72f992d4a29fc90c1ae27a85aacad9e8ebb2fd35"
+          }
+        },
+        {
+          "client_id": "497053976903-62igeq8ktk2iqoa06mp68vh94gihgg1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdwfQN08PYImJdI3bdRuB8ntCNYxXXCWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497053976903-62igeq8ktk2iqoa06mp68vh94gihgg1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497053976903-c5uheg9hp68parta902nn2l8s2tljavj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diabetest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497053976903:android:c8f9165c94fd6ffc8ce462",
+        "android_client_info": {
+          "package_name": "com.example.sosmedfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497053976903-oq42ipsjii69keaguo25cemagd58ii3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sosmedfinal",
+            "certificate_hash": "72f992d4a29fc90c1ae27a85aacad9e8ebb2fd35"
+          }
+        },
+        {
+          "client_id": "497053976903-62igeq8ktk2iqoa06mp68vh94gihgg1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdwfQN08PYImJdI3bdRuB8ntCNYxXXCWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497053976903-62igeq8ktk2iqoa06mp68vh94gihgg1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497053976903-c5uheg9hp68parta902nn2l8s2tljavj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diabetest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
