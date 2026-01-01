@@ -2,13 +2,15 @@ import 'dart:convert';
 import 'dart:typed_data';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
 
 class GeminiServices {
-  final String apiKey = "AIzaSyDSLvDAgBXeMCHlFWVjOtRF1jZd_b--WJo";
+  final String apiKey = '${dotenv.env['API_KEY']}';
   final FirebaseAuth _auth = FirebaseAuth.instance;
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;
   User? _user;
+
 
 
   Map<String, dynamic>? _parseGeminiJson(String textResponse) {

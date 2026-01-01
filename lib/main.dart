@@ -30,6 +30,7 @@ import 'package:diabetest/services/yolo_testing.dart';
 import 'package:firebase_app_check/firebase_app_check.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 
 
@@ -42,6 +43,7 @@ void main() async {
     androidProvider: AndroidProvider.debug,
   );
   cameras = await availableCameras();
+  await dotenv.load(fileName: '.env');
 
 
   runApp(const MyApp());
